@@ -1,4 +1,5 @@
 🎵 Spotify Clone 🎧
+
 A feature-rich Spotify Clone built with TypeScript, Node.js, and Express. This application provides real-time communication and seamless music streaming with additional social and admin functionalities.
 
 ✨ Features
